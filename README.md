@@ -1,5 +1,7 @@
-- 👋 Olá, eu sou @LarissaLVasconcelos
-- 👀 Eu tenho interesse em programação e banco de dados.
-- 🌱 Atualmente estudo python.
-- 📫 Para chegar até mim: larissalvasconcelos@hotmail.com / 37 988382932
-
+Olá, sou Larissa, estudante e curiosa nessa área de T.I !
+Meu principal foco é programação e banco de dados.
+Tenho habilidades em CSS, e HTML,
+Conhecimento intermediário no pacote OFFICE.
+Minha principal linguagem de programação é python.
+Para chegar até mim: larissalvasconcelos@hotmail.com
+(37) 9 8838-2932
