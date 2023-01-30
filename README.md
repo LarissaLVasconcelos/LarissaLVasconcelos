@@ -1,5 +1,5 @@
 Olá, sou Larissa, estudante e curiosa nessa área de T.I !
-Meu principal foco é programação e banco de dados.
+Meu principal foco é programação.
 Tenho habilidades em CSS, e HTML,
 Conhecimento intermediário no pacote OFFICE.
 Minha principal linguagem de programação é python.
